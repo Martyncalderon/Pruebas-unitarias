@@ -33,6 +33,8 @@ public class Parseador {
 			return "-";
 		}
 	}
+}
+}
 
 	public int obtenerParte3(final String ecuacion) {
 		String[] partesEcuacion = ecuacion.split("=");
