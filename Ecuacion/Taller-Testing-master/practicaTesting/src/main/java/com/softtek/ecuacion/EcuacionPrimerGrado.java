@@ -14,7 +14,7 @@ package com.softtek.ecuacion;
  * x = (c - b) / a
  * es decir:
  * 
- * x = (parte3 - parte2)/parte1
+ * x = (parte3-parte2)/parte1
  */
 public class EcuacionPrimerGrado {
 
