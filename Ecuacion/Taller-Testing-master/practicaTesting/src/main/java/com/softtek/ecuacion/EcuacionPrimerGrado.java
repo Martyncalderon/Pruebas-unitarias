@@ -32,4 +32,4 @@ public class EcuacionPrimerGrado {
 		return resultado;
 	}
 
-}
+}}
