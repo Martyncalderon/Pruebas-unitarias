@@ -4,7 +4,7 @@ package com.softtek.ecuacion;
  * Ecuacion en formato:
  * 
  * ax + b = c
- *
+ *bghvngbfcbvcbvcbcbv
  * a : parte1
  * b : parte2
  * + : operador
