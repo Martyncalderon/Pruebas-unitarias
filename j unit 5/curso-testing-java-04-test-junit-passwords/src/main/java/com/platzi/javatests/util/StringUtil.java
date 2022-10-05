@@ -9,7 +9,7 @@ public class StringUtil {
         }
 
         String result = "";
-
+        //se realiza el ciclo
         for (int i = 0; i < times; i++) {
             result += str;
         }
