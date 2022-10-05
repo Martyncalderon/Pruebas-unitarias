@@ -23,3 +23,5 @@ public class PasswordUtil {
         return SecurityLevel.STRONG;
     }
 }
+}
+}}
